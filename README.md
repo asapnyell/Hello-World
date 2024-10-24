@@ -1,4 +1,4 @@
-# Olá, mundo!
+# Hello, World!
  Primeiro repositorio Github
 
-Learning
+Aprendendo usar Git e Github
